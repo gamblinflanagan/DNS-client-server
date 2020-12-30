@@ -9,7 +9,8 @@ python
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/DNS-client-server/`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/DNS-client-server.git`
 * `run both files in any python IDE`
 * ###IMPORTANT### run the server before the client
 
@@ -17,6 +18,7 @@ python
 
 * Open a terminal Shell
 * run `python server.py`
+* Open a separate shell
 * run `python client.py`
 
 
